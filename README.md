@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TatarinArtur
 - 👀 I’m interested in SQL , Python.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning learning the basics of programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me medianlok89@gmail.com
 
